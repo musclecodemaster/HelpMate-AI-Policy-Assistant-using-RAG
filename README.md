@@ -48,7 +48,7 @@ Key libraries used:
 2. Update the `PDF_PATH` variable in the script with your file path.  
 3. Run the pipeline:
 ```bash
-python rag_project.py
+python HelpMate AI Project_V4.pynb
 ```
 4. Enter your query when prompted, e.g.:
 ```
